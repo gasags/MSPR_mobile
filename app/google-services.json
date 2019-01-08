@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "620004919207",
+    "firebase_url": "https://msprmobile-8b2a4.firebaseio.com",
+    "project_id": "msprmobile-8b2a4",
+    "storage_bucket": "msprmobile-8b2a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620004919207:android:6a09ffac78bc5ae4",
+        "android_client_info": {
+          "package_name": "com.test.gatien.gosecury"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620004919207-976ii0gb1jd3etokvtlreisekcap6pv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.gatien.gosecury",
+            "certificate_hash": "fecb3bf91f4b073dd046705b0f70a995502dd403"
+          }
+        },
+        {
+          "client_id": "620004919207-l4drpsipbl4ot7ojbc19n3fa7tbm7tnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvj2iTclTUKNRJqtOVBN6zDhR3SvwHW1k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620004919207-l4drpsipbl4ot7ojbc19n3fa7tbm7tnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
