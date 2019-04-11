@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:orientation="vertical">
 
-    <android.support.v7.widget.AppCompatImageView
+    <ImageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:src="@drawable/logo"
@@ -35,4 +36,11 @@
         android:background="@color/colorTitleAndButton"
         android:text="Effectuer un controle"
         android:textColor="@color/colorTxt" />
+
+    <TextView
+        android:id="@+id/TvTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"/>
+
 </LinearLayout>
